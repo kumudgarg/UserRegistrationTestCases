@@ -22,7 +22,7 @@ public class UserRegistrationRegexTest {
     }
 
     @Before
-    public void initiliaze(){
+    public void initiliazeObj(){
         userValidator = new UserValidator();
     }
 
